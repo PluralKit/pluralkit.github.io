@@ -14,4 +14,4 @@ PluralKit is a bot designed for plural communities on Discord. It allows you to 
 For more information and basic set-up, please refer to [the official documentation](https://pluralkit.me/).
 
 ## Contributing
-The [source code for this website is available on GitHub](https://github.com/PluralKit/pluralkit.github.io). It is built using Jekyll and hosted on GitHub Pages. If you have a resource or tool available, or have a written up a guide on a PluralKit feature (that would not fit in with the official documentation), feel free to open a pull request!
+The [source code for this website is available on GitHub](https://github.com/PluralKit/pluralkit.github.io). It is built using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://docs.github.com/en/pages). If you have a resource or tool available, or have a written up a guide about PluralKit (that would not fit in with the official documentation), feel free to open a pull request!
