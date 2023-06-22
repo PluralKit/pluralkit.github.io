@@ -28,7 +28,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
 color_scheme: myriad
+callouts:
+  danger:
+    title: Danger
+    color: red
+  tip:
+    title: Tip
+    color: green
+  warning:
+    title: Warning
+    color: yellow
 
 # Exclude from processing.
 # The following items will not be processed, by default.
